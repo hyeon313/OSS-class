@@ -1,0 +1,19 @@
+1. 깃에 새로운 파일을 만듭니다.
+$ vi test.txt
+:wq
+
+2. 스테이징에 파일을 올립니다.
+$ git add test.txt
+
+3. 스테이지징에 올라간 파일을 커밋합니다.
+$ git commit -m "first commit"
+
+4. 지역 저장소와 원격 저장소를 연결합니다.
+$ git remote add origin https://github.com/Paransaik/OSS-class.git
+
+5. 연결상태를 확인합니다.
+$ git remote -v
+
+6. 커밋된 파일을 푸쉬합니다.
+$ git push -u origin master
+

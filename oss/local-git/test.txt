@@ -17,3 +17,4 @@ $ git remote -v
 6. 커밋된 파일을 푸쉬합니다.
 $ git push -u origin master
 
+Test

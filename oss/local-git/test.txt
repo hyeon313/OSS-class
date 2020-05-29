@@ -18,3 +18,5 @@ $ git remote -v
 $ git push -u origin master
 
 Test
+
+home연습을 위한 파일편집입니다.
